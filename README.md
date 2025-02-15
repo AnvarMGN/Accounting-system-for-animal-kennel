@@ -24,7 +24,6 @@ git clone https://github.com/AnvarMGN/Accounting-system-for-animal-kennel
 2. Перейти в директорию проекта
 ```
 cd Accounting-system-for-animal-kennel
-cd Pet-registry-Java
 ```
 3. Запустить скрипт и действовать в соответствии с инструкциями в меню
 ```
